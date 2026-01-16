@@ -1,6 +1,5 @@
 package gui;
 
-import java.awt.ScrollPane;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
